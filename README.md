@@ -1,6 +1,10 @@
-# SuperKarmaBot
+# 🏆 Discord Super Karma Bot
 
-SuperKarmaBot is a Discord bot that allows users to award and manage karma points, creating a positive and interactive community environment. It supports giving and removing karma, viewing leaderboards, and generating karma distribution graphs. Additionally, it features admin controls and the ability to create kudo boards for public recognition.
+![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Discord.py Version](https://img.shields.io/badge/discord.py-2.0+-green.svg)
+![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+
+An advanced karma/reputation system bot with levels, leaderboards, analytics, and moderation tools.
 
 ## Features
 
