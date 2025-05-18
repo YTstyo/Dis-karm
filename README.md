@@ -24,7 +24,7 @@ An advanced karma/reputation system bot with levels, leaderboards, analytics, an
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/username/SuperKarmaBot.git
+git clone https://github.com/YTstyo/Dis-karm.git
 cd SuperKarmaBot
 ```
 
